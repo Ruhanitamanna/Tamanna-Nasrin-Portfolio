@@ -1,0 +1,7 @@
+.gradient-text {
+    background-image: linear-gradient(to right, hsl(252, 95%, 52%), #050125);
+    background-clip: text;
+    color: transparent;
+    font-size: 36px;
+    font-weight: bold;
+  }

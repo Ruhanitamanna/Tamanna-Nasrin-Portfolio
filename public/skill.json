@@ -1,0 +1,59 @@
+[
+    {
+      "name": "HTML5",
+      "image": "https://img.freepik.com/free-icon/html-5_318-698168.jpg?t=st=1692480362~exp=1692480962~hmac=319bfb1245361c80b19bef3be186dcff1a714394bcabb2cab60b9e585ac38c81"
+    },
+    {
+      "name": "CSS3",
+      "image": "https://img.freepik.com/free-icon/css-3_318-399932.jpg?size=626&ext=jpg&ga=GA1.2.1851204882.1673540659&semt=ais"
+    },
+    {
+      "name": "Bootstrap",
+      "image": "https://img.freepik.com/premium-vector/bootstrap-flat-logo-vector-illustration_582637-461.jpg?w=900"
+    },
+    {
+      "name": "Tailwind CSS",
+      "image": "https://example.com/tailwindcss-image.jpg"
+    },
+    {
+      "name": "JavaScript",
+      "image": "https://example.com/javascript-image.jpg"
+    },
+    {
+      "name": "React",
+      "image": "https://example.com/react-image.jpg"
+    },
+    {
+      "name": "Node.js",
+      "image": "https://example.com/nodejs-image.jpg"
+    },
+    {
+      "name": "Express.js",
+      "image": "https://example.com/expressjs-image.jpg"
+    },
+    {
+      "name": "MongoDB",
+      "image": "https://example.com/mongodb-image.jpg"
+    },
+    {
+      "name": "Git and GitHub",
+      "image": "https://example.com/github-image.jpg"
+    },
+    {
+      "name": "Responsive Web Design",
+      "image": "https://example.com/rwd-image.jpg"
+    },
+    {
+      "name": "RESTful APIs",
+      "image": "https://example.com/restful-api-image.jpg"
+    },
+    {
+      "name": "Problem-solving",
+      "image": "https://example.com/problem-solving-image.jpg"
+    },
+    {
+      "name": "Teamwork",
+      "image": "https://example.com/teamwork-image.jpg"
+    }
+  ]
+  

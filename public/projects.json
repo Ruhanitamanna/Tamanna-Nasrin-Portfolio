@@ -1,0 +1,36 @@
+{
+    "projects": [
+      {
+        "id": 1,
+        "title": "Summer Camp",
+        "description": "summer camp is a mern stack website for students where they can buy different arts class for their summer holiday",
+        "technologies": ["Tech 1", "Tech 2", "Tech 3"],
+        "image": "https://i.ibb.co/1G1sfNK/summer-Camp.png",
+        "liveLink": "https://summer-camp-goals.web.app/",
+        "githubClient": "https://github.com/Ruhanitamanna/summer-camp-client",
+        "githubServer": "https://github.com/Ruhanitamanna/summer-camp-server"
+      },
+      {
+        "id": 2,
+        "title": "Toy City",
+        "description": "Toy city is a website for children where they can buy stiffed toys.",
+        "technologies": ["Tech 1", "Tech 2", "Tech 3"],
+        "image": "https://i.ibb.co/DGZzW3y/ToyCity2.png",
+        "liveLink": "https://toy-city.web.app/",
+        "githubClient": "https://github.com/Ruhanitamanna/toy-city-client",
+        "githubServer": "https://github.com/Ruhanitamanna/toy-city-server"
+      },
+      {
+        "id": 3,
+        "title": "Bon Apetit ",
+        "description": "Bon Apetit is a website for italian cuisine where people can learn italian recipes.",
+        "technologies": ["Tech 1", "Tech 2", "Tech 3"],
+        "image": "https://i.ibb.co/R9kkvxn/bon-Apetit.png",
+        "liveLink": "https://bon-appetit-assignment-10.web.app/",
+        "githubClient": "https://github.com/Ruhanitamanna/bon-apetit-client",
+        "githubServer": "https://github.com/Ruhanitamanna/bon-apetit-server"
+      }
+      
+    ]
+  }
+  
